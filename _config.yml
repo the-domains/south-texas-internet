@@ -1,0 +1,28 @@
+name: South Texas Internet
+favicon: null
+layout_spectrum: 0.8384285822976381
+typography_spectrum: 0.9025194377172738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5147462927270681
+  lightness: 0.010329766664654016
+  saturation: 0.12002372345887125
+  rhythmicContrast: 0.7899297077674419
+purpose: []
